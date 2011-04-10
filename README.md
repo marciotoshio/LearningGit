@@ -17,3 +17,4 @@ Topics
 * fetch
 * merge
 * add a collaborator
+* test push without parameters
